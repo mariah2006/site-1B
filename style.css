@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho {
+    height: 100px;
+    background-color: rgb(138, 76, 219);
+    margin: 0 auto;
+}
+
+#menu {
+    width: 20%;
+    height: 600px;
+    background-color: rgb(163, 99, 22);
+    float: left;
+    margin-top: 10px;
+
+}
+
+#principal {
+    width: 20%;
+    height: 600px;
+    background-color: rgb(142, 203, 207);
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rodape {
+    height: 50px;
+    background-color: rgb(116, 87, 55);
+    clear: both;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(95, 0, 73);
+}
+
+#pizzadoces {
+    width: 220px;
+    height: 220px;
+}
+
+#brigadeiro {
+    width: 220px;
+    height:220px;
+}
+
+#pasteldoce{
+    width: 220px;
+    height: 220px;
+    
+}
